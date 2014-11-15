@@ -3,8 +3,8 @@
 This Code of Conduct is adapted from [Rust's wonderful CoC](https://github.com/rust-lang/rust/wiki/Note-development-policy#conduct).
 
 * We are committed to providing a friendly, safe and welcoming environment for
-all, regardless of gender, sexual orientation, disability, vernacular,
-nationality, ethnicity, religion, or any other trait.
+all, regardless of gender, sexual orientation, disability, ethnicity, religion,
+nationality, vernacular, or any other trait.
 * Please avoid using overtly sexual nicknames or other nicknames that might
 detract from a friendly, safe and welcoming environment for all.
 * Please be kind and courteous. There's no need to be mean or rude.
